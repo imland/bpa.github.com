@@ -1,0 +1,50 @@
+H1{
+    text-align: center;
+    background-color: rgb(45, 37, 37);
+    width: 60%;
+    margin: auto;
+    
+}
+h3{
+width: 60%;
+margin: auto;
+text-align: center;
+background-color: rgb(178, 66, 66);
+}
+img{
+width: 40%;
+
+}
+
+p{
+
+text-align: center;
+    width: 60%;
+    margin: auto;
+background-color: rgb(139, 100, 198);
+height: 100px;
+}
+
+hr{
+width: 60%;
+margin: auto;
+border-radius: 10px;
+}
+body{
+    text-align: center;
+    margin: auto;
+}
+
+div.b{
+   height:90%;
+   width:17%;
+   background-color: rgb(255, 25, 98);
+   
+}
+
+
+
+
+nav a:hover{
+    background-color: rgb(0, 0, 0);
+}
