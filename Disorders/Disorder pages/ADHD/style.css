@@ -59,3 +59,9 @@ body{
 nav a:hover{
     background-color: rgb(255, 255, 255);
 }
+nav {
+    background-color: rgb(59, 72, 120);
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}

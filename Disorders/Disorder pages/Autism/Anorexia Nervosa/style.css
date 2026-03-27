@@ -1,6 +1,6 @@
 H1{
     text-align: center;
-    background-color: rgb(83, 116, 118);
+    background-color: rgb(162, 86, 169);
     width: 60%;
     margin: auto;
     
@@ -9,11 +9,11 @@ h3{
 width: 60%;
 margin: auto;
 text-align: center;
-background-color: rgb(202, 208, 122);
+background-color: rgb(49, 40, 40);
 }
 img{
 width: 60%;
-background-color: rgb(83, 116, 118);
+
 }
 
 p{
@@ -21,7 +21,7 @@ p{
 text-align: center;
     width: 60%;
     margin: auto;
-background-color: rgb(83, 116, 118);
+background-color: rgb(54, 49, 87);
 height: 100px;
 color: white;
 }
@@ -29,7 +29,7 @@ h3 {
     text-align: center;
     width: 60%;
     margin: auto;
-background-color: sandybrown;
+background-color: rgb(161, 161, 163);
 height: 100px;
 color: white;
 height: 20px;
@@ -38,7 +38,7 @@ h2 {
     text-align: center;
     width: 60%;
     margin: auto;
-background-color: sandybrown;
+background-color: rgb(147, 147, 147);
 height: 100px;
 color: white;
 height: 20px;
@@ -59,14 +59,8 @@ body{
 nav a:hover{
     background-color: rgb(255, 255, 255);
 }
-ul {
-    width: 57.5%;
-    margin: auto;
-    text-align: center;
-    background-color: rgb(83, 116, 118);
-}
 nav {
-    background-color: sandybrown;
+    background-color: rgb(54, 49, 87);
     width: 60%;
     margin: auto;
     text-align: center;

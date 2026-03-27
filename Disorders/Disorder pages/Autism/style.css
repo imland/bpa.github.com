@@ -23,7 +23,7 @@ text-align: center;
     width: 60%;
     margin: auto;
 background-color: rgb(27, 21, 67);
-
+height: 100px;
 color: white;
 }
 h3 {
@@ -59,4 +59,11 @@ body{
 
 nav a:hover{
     background-color: rgb(255, 255, 255);
+}
+
+nav {
+    background-color: rgb(38, 37, 43);
+    width: 60%;
+    margin: auto;
+    text-align: center;
 }
