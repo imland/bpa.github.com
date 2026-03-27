@@ -124,7 +124,7 @@ function moveCarousel(direction) {
         position--;
     }
 
-    const offset = 68 * position;
+    const offset = 180 * position;
     document.querySelectorAll('.carousel-item').forEach(carouselItemElement =>{
         carouselItemElement.style.transform = `translateX(-${offset}px)`;
     })
